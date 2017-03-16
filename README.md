@@ -1,1 +1,2 @@
 # Distrubutions-in-R
+The distribution of a statistical data set (or a population) is a listing or function showing all the possible values (or intervals) of the data and how often they occur. In R, there are various predefined functions to generate different types of distributions. In this repository, I have created a function in R which plots 6 different types of distributions: Normal, Uniform, Binomial, Chi-Sqaure or Pearson, Log Normal and Exponential Distribution.
